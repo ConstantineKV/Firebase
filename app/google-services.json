@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "753538341794",
+    "firebase_url": "https://databasekonstantin-default-rtdb.firebaseio.com",
+    "project_id": "databasekonstantin",
+    "storage_bucket": "databasekonstantin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753538341794:android:c3fde07a961c5c96c870fb",
+        "android_client_info": {
+          "package_name": "com.konstantin_romashenko.databasekonstantin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753538341794-s896pla8n4j8ct04ev1nse6uhmdknvbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIAN2oDtJzqJo5_764ZDOuEzvYhdCa_jY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753538341794-s896pla8n4j8ct04ev1nse6uhmdknvbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -4,7 +4,7 @@ public class User
 {
     public String id, name, second_name, email;
 
-    private void User()
+    public User()
     {
 
     }
